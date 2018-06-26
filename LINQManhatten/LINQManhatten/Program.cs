@@ -22,7 +22,7 @@ namespace LINQManhatten
         {
             // C:\Users\rhiannon\Source\Repos\LINQManhatten\LINQManhatten\LINQManhatten\Program.cs
             // C:\Users\rhiannon\Source\Repos\LINQManhatten\LINQManhatten\LINQManhatten\data.json
-            string path = @"./data.json";
+            string path = @"..\..\..\data.json";
             try
             {
                 StreamReader r = new StreamReader(path);
