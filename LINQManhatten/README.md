@@ -16,7 +16,7 @@ The following is required to run the program:
 3. **NewtonSoftJson (an external NuGet package)**
 
 ## Example
-![Example Window](..\EaxmpleShot.jpeg)
+![Example Window](../ExampleShot.jpeg)
 
 ## Architecture 
   This is created using ASP.NET Core 2.1 Console Applications.
