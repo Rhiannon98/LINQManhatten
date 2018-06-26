@@ -9,7 +9,7 @@ namespace LINQManhatten.Classes
     public class FeaturesCollections
     {
         [JsonProperty]
-        public List<Properties> Features { get; set; }
+        public List<Features> Features { get; set; }
         public string Type { get; set; }
     }
 }
